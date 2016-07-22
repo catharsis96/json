@@ -1,0 +1,255 @@
+{ 
+    "goods": [
+        {
+            "id": 1,
+            "name": "coat",
+            "shop": "Shop",
+            "label": "Nike",
+            "gender": "male", 
+            "age": {
+                "from": 25,
+                "to": 80
+            },
+            "temp": {
+                "from": 0,
+                "to": 10
+            },
+            "weather": "windy",
+            "humidity": {
+                "from": 20,
+                "to": 50
+            },
+            "url": "http://zilant2.blob.core.windows.net/t-shirt/coat.png",
+            "cost": 100
+        },
+        {
+            "id": 2,
+            "name": "dress",
+            "shop": "Shop",
+            "label": "QUELLE",
+            "gender": "female",
+            "age": {
+                "from": 17,
+                "to": 50
+            },
+            "temp": {
+                "from": 25,
+                "to": 30
+            },
+            "weather": "sunny",
+            "humidity": {
+                "from": 20,
+                "to": 40
+            },
+            "url": "http://zilant2.blob.core.windows.net/t-shirt/dress.png",
+            "cost": 40
+        },
+        {
+            "id": 3,
+            "name": "jacket",
+            "shop": "ISOTRONIC",
+            "brand": "ARCHITAX",
+            "gender": "male",
+            "label": "Nike",
+            "age": {
+                "from": 16,
+                "to": 35
+            },
+            "temp": {
+                "from": 10,
+                "to": 20
+            },
+            "weather": "wet",
+            "humidity": {
+                "from": 60,
+                "to": 80
+            },
+            "url": "http://zilant2.blob.core.windows.net/t-shirt/jacket.png",
+            "cost": 332            
+        },
+        {
+            "id": 4,
+            "name": "outerwear",
+            "shop": "SCENTY",
+            "brand": "PYRAMAX",
+            "gender": "male",
+            "label": "Nike",
+            "age": {
+                "from": 20,
+                "to": 60
+            },
+            "temp": {
+                "from": 15,
+                "to": 20
+            },
+            "weather": "wet",
+            "humidity": {
+                "from": 50,
+                "to": 80
+            },
+            "url": "http://zilant2.blob.core.windows.net/t-shirt/outerwear.png",
+            "cost": 295      
+        },
+        {
+            "id": 5,
+            "name": "skirt",
+            "shop": "MAINELAND",
+            "brand": "SOLAREN",
+            "gender": "female",
+            "label": "Nike",
+            "age": {
+                "from": 27,
+                "to": 55
+            },
+            "temp": {
+                "from": 17,
+                "to": 30
+            },
+            "weather": "windy",
+            "humidity": {
+                "from": 20,
+                "to": 55
+            },
+            "url": "http://zilant2.blob.core.windows.net/t-shirt/skirt.png",
+            "cost": 172
+        },
+        {
+            "id": 6,
+            "name": "suit",
+            "shop": "CORPULSE",
+            "brand": "CUBIX",
+            "gender": "female",
+            "label": "Nike",
+            "age": {
+                "from": 40,
+                "to": 63
+            },
+            "temp": {
+                "from": 15,
+                "to": 31
+            },
+            "weather": "foggy",
+            "humidity": {
+                "from": 40,
+                "to": 80
+            },
+            "url": "http://zilant2.blob.core.windows.net/t-shirt/suit.png",
+            "cost": 352
+        },
+        {
+            "id": 7,
+            "name": "sweater",
+            "shop": "COWTOWN",
+            "brand": "PLASTO",
+            "gender": "female",
+            "label": "Nike",
+            "age": {
+                "from": 30,
+                "to": 46
+            },
+            "temp": {
+                "from": 0,
+                "to": 15
+            },
+            "weather": "thunderstorm",
+            "humidity": {
+                "from": 58,
+                "to": 80
+            },
+            "url": "http://zilant2.blob.core.windows.net/t-shirt/sweater.png",
+            "cost": 88
+        },
+        {
+            "id": 8,
+            "name": "t-shirt",
+            "shop": "VIXO",
+            "brand": "QUADEEBO",
+            "gender": "female",
+            "label": "Nike",
+            "age": {
+                "from": 31,
+                "to": 47
+            },
+            "temp": {
+                "from": 25,
+                "to": 40
+            },
+            "weather": "hot",
+            "humidity": {
+                "from": 37,
+                "to": 60
+            },
+            "url": "http://zilant2.blob.core.windows.net/t-shirt/t-shirt.png",
+            "cost": 63
+        },
+        {
+            "id": 9,
+            "name": "suit",
+            "shop": "MORPULSE",
+            "brand": "TAPOX",
+            "gender": "female",
+            "label": "Nike",
+            "age": {
+                "from": 15,
+                "to": 30
+            },
+            "temp": {
+                "from": 15,
+                "to": 31
+            },
+            "weather": "foggy",
+            "humidity": {
+                "from": 50,
+                "to": 80
+            },
+            "url": "http://zilant2.blob.core.windows.net/t-shirt/suit.png",
+            "cost": 123
+        },
+        {
+            "id": 10,
+            "name": "t-shirt",
+            "shop": "XIXO",
+            "brand": "QUAPEEBO",
+            "gender": "female",
+            "label": "Nike",
+            "age": {
+                "from": 23,
+                "to": 45
+            },
+            "temp": {
+                "from": 25,
+                "to": 40
+            },
+            "weather": "hot",
+            "humidity": {
+                "from": 38,
+                "to": 60
+            },
+            "url": "http://zilant2.blob.core.windows.net/t-shirt/t-shirt.png",
+            "cost": 63
+        },
+        {
+            "id": 11,
+            "name": "sweater",
+            "shop": "COWTOWN",
+            "brand": "PLASTO",
+            "gender": "female",
+            "label": "Nike",
+            "age": {
+                "from": 28,
+                "to": 30
+            },
+            "temp": {
+                "from": 0,
+                "to": 15
+            },
+            "weather": "thunderstorm",
+            "humidity": {
+                "from": 58,
+                "to": 80
+            },
+            "url": "http://zilant2.blob.core.windows.net/t-shirt/sweater.png",
+            "cost": 345
+        }
+    ]
+}
